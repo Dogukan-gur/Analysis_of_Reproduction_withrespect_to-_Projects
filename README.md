@@ -8,8 +8,9 @@ Firstly, processed square meters of individual orders regarding to their combina
 
 
 
+![image](https://user-images.githubusercontent.com/117075526/203037467-76f7bfc3-0350-4f50-932f-27210cf53b25.png)
 
-[CALCULATIN SCHEMA OF PROCESSED GLASS.pdf](https://github.com/Dogukan-gur/Analysis_of_Reproduction_withrespect_to-_Projects/files/10055972/CALCULATIN.SCHEMA.OF.PROCESSED.GLASS.pdf)
+
 
 
 
